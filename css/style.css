@@ -1,7 +1,8 @@
 *{
 	padding: 0;
 	margin: 0;
-	font-family: 'Josefin Sans', sans-serif;
+	/* font-family: 'Josefin Sans', sans-serif; */
+	font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
 	box-sizing: border-box;
 }
 
@@ -12,21 +13,20 @@ body{
 .start{
 	height: 100vh;
 	width: 100%;
-	/* background-image: url(../img/background.jpg); */
-	background-size: cover;
-	background-position: center;
 }
 
 .num{
-	color: #40a698;
+	color: #64ffda;
+	font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
 }
 
 .start a{
 	color: #abb7d4;
+	font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
 }
 
 .content h4{
-	color: #46b6a2;
+	color: #64ffda;
 }
 
 .name{
@@ -35,24 +35,29 @@ body{
 
 .content h1{
 	color: #8892b0;
+	line-height: 1;
+	font-size: clamp(40px, 8vw, 80px);
+	font-weight: 600;
 }
 
 .content p{
-	font-size: 23px;
+	font-size: 18px;
 	color: #8892b0;
+}
+
+.paragraph{
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
 .content button{
 	margin-top: 20px;
 	background-color:#0a192f;
-	color: #46b6a2 !important;
-	text-decoration: none;
+	color: #64ffda !important;
 	border: 2px solid transparent;
-	font-weight: bold;
 	padding: 20px 30px;
 	border-radius: 5px;
-	border: 2px solid #46b6a2;
-	transition: .4s; 
+	border: 2px solid #64ffda;
 }
 
 
@@ -102,7 +107,7 @@ nav ul li a{
 	text-transform: capitalize;
 }
 nav ul li a:hover{
-	color: #40a698;
+	color: #64ffda;
 	transition: .4s;
 }
 .btn{
@@ -182,7 +187,7 @@ h4{
 }
 button{
 	background-color:#f9004d;
-	color: #46b6a2;
+	color: #64ffda;
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
@@ -242,7 +247,7 @@ h5{
 }
 .card .button{
 	background-color:#f9004d;
-	color: white;
+	color: #64ffda;
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
