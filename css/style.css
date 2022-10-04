@@ -105,16 +105,19 @@ nav ul li a:hover{
 	font-size: 15px;
 	border: 1.5px solid #64ffda;
 }
+/* Eikhane start er kaj sesh hoise */
 
-.about-text{
-	width: 550px;
-	margin-left: 30px;
-}
+
 
 .about{
 	width: 100%;
 	padding: 100px 0px;
 	background-color: #0a192f;
+	margin-left: 80px;
+}
+
+.about-text{
+	width: 550px;
 }
 .about img{
 	height: auto;
@@ -129,8 +132,12 @@ nav ul li a:hover{
 	align-items: center;
 	justify-content: space-around;
 }
-
-
+.logo{
+	color: white;
+}
+span{
+	color: #f9004d;
+}
 
 
 
@@ -167,9 +174,7 @@ nav ul li a:hover{
 	letter-spacing: 1px;
 	cursor: pointer;
 } */
-span{
-	color: #f9004d;
-}
+
 
 
 
