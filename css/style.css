@@ -105,9 +105,19 @@ nav ul li a:hover{
 	font-size: 15px;
 	border: 1.5px solid #64ffda;
 }
-/* Eikhane start er kaj sesh hoise */
+/* Eikhane start er style sesh hoise */
 
 
+
+/* Eikhane about section er style start hoise */
+.main{
+	width: 1130px;
+	max-width: 95%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
 
 .about{
 	width: 100%;
@@ -122,29 +132,35 @@ nav ul li a:hover{
 .about img{
 	height: auto;
 	width: 430px;
+	border-radius: 10px;
+	filter: grayscale(100%);
 }
 
-.main{
-	width: 1130px;
-	max-width: 95%;
-	margin: 0 auto;
-	display: flex;
-	align-items: center;
-	justify-content: space-around;
-}
-.logo{
-	color: white;
-}
-span{
-	color: #f9004d;
+.about img:hover{
+	filter: grayscale(0%);
 }
 
+.about-text h4{
+	margin-bottom: 40px;
+	font-size: 30px;
+	line-height: 1.1;
+	font-weight: 650;
+	color: #ccd6f6;
+	font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif !important;
+}
 
+#abt-num{
+	font-weight: 100 !important;
+	font-size: 30px !important;
+	font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
+}
 
+#abt-paragraph{
+	font-size: 18px;
+	font-weight: 460;
+}
 
-
-
-
+/* "▹" */
 
 
 
@@ -214,11 +230,11 @@ h3{
 	margin-bottom: 50px;
 }
 
-h4{
+/* h4{
 	color: #fcfc;
 	letter-spacing: 2px;
 	font-size: 20px;
-}
+} */
 
 
 
@@ -235,13 +251,13 @@ h4{
 	margin-bottom: 25px;
 	text-transform: capitalize;
 }
-.about-text p{
+/* .about-text p{
 	color: #fcfc;
 	letter-spacing: 1px;
 	line-height: 28px;
 	font-size: 18px;
 	margin-bottom: 45px;
-}
+} */
 
 
 
