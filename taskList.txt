@@ -1,8 +1,10 @@
 # Task List : 
 
 -- Project Section ta thik thak korte hobe
--- Info namer arekta page khulte hobe 
--- ekta fav quote thakbe
--- Currenty Doing course name ekta table thakbe  
+
+
+-- Infor page er table ta hobe Currently doing course er table   
 -- oi table e cse391 e piazza er link diye dibo
--- Hobbies er ekta list thakbe (ul list)
+
+
+-- Shob gular style gula thik thak korte hobe. info page er jonno ekta external css file khulte hobe
