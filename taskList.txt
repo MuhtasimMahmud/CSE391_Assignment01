@@ -1,0 +1,8 @@
+# Task List : 
+
+-- Project Section ta thik thak korte hobe
+-- Info namer arekta page khulte hobe 
+-- ekta fav quote thakbe
+-- Currenty Doing course name ekta table thakbe  
+-- oi table e cse391 e piazza er link diye dibo
+-- Hobbies er ekta list thakbe (ul list)
