@@ -10,3 +10,6 @@
 -- Shob gular style gula thik thak korte hobe. info page er jonno ekta external css file khulte hobe
 
 -- javascript e last update er je function ta ase oita user korte hobe
+
+
+-- index page ta thik thak kore felbo ar dorkar hoile CSE391_Assignment01 repo ta delete kore arekta git repo khulbo.
