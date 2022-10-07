@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #cfebff;
+	font-family: sans-serif;
+}
+
+.pf{
+	display: inline-block;
+	width: 80%;
+	padding:  30px 10px;
+	margin: 2%;
+	text-align: left;
+	box-shadow: 0 0 15px 1px rgba(37, 73, 214, 0.18);
+	background: #fff;
+}
+
+table,th,td{
+	width: 80%;
+	margin: auto;
+	font-size:20px;
+	padding: 20px;
+	text-align: center;
+	border:2px solid #000;
+	border-collapse: collapse;
+}

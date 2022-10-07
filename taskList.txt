@@ -8,3 +8,5 @@
 
 
 -- Shob gular style gula thik thak korte hobe. info page er jonno ekta external css file khulte hobe
+
+-- javascript e last update er je function ta ase oita user korte hobe
