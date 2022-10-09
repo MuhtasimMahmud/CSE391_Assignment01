@@ -152,13 +152,13 @@ nav ul li a:hover{
 	font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif !important;
 }
 
-#abt-num{
+.abt-num{
 	font-weight: 100 !important;
 	font-size: 30px !important;
 	font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
 }
 
-#abt-paragraph{
+.abt-paragraph{
 	font-size: 18px;
 	font-weight: 460;
 }
